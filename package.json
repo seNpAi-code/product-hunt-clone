@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "http://seNpAi-code.github.io/product-hunt-clone",
-
   "dependencies": {
     "@craco/craco": "^6.1.2",
     "@testing-library/jest-dom": "^5.11.4",
@@ -44,7 +43,7 @@
   "devDependencies": {
     "autoprefixer": "^9",
     "gh-pages": "^3.1.0",
-    "postcss": "^7",
+    "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   }
 }

@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/product-hunt-clone/static/css/main.22ff5d2b.chunk.css",
+    "main.js": "/product-hunt-clone/static/js/main.8b3dc0ac.chunk.js",
+    "main.js.map": "/product-hunt-clone/static/js/main.8b3dc0ac.chunk.js.map",
+    "runtime-main.js": "/product-hunt-clone/static/js/runtime-main.bfa52fd9.js",
+    "runtime-main.js.map": "/product-hunt-clone/static/js/runtime-main.bfa52fd9.js.map",
+    "static/js/2.9ec2e7b8.chunk.js": "/product-hunt-clone/static/js/2.9ec2e7b8.chunk.js",
+    "static/js/2.9ec2e7b8.chunk.js.map": "/product-hunt-clone/static/js/2.9ec2e7b8.chunk.js.map",
+    "static/js/3.6bbb178b.chunk.js": "/product-hunt-clone/static/js/3.6bbb178b.chunk.js",
+    "static/js/3.6bbb178b.chunk.js.map": "/product-hunt-clone/static/js/3.6bbb178b.chunk.js.map",
+    "index.html": "/product-hunt-clone/index.html",
+    "static/css/main.22ff5d2b.chunk.css.map": "/product-hunt-clone/static/css/main.22ff5d2b.chunk.css.map",
+    "static/js/2.9ec2e7b8.chunk.js.LICENSE.txt": "/product-hunt-clone/static/js/2.9ec2e7b8.chunk.js.LICENSE.txt",
+    "static/media/Adyouneed.2a3bd82d.gif": "/product-hunt-clone/static/media/Adyouneed.2a3bd82d.gif",
+    "static/media/Butter.d3f18d2b.gif": "/product-hunt-clone/static/media/Butter.d3f18d2b.gif",
+    "static/media/Chatbot.fdcf4c60.gif": "/product-hunt-clone/static/media/Chatbot.fdcf4c60.gif",
+    "static/media/FaceGenerator.fdc3ef37.gif": "/product-hunt-clone/static/media/FaceGenerator.fdc3ef37.gif",
+    "static/media/Icebreaker.942914a7.gif": "/product-hunt-clone/static/media/Icebreaker.942914a7.gif",
+    "static/media/Mailook.133e51c2.gif": "/product-hunt-clone/static/media/Mailook.133e51c2.gif",
+    "static/media/Newsletter.2b494bdc.gif": "/product-hunt-clone/static/media/Newsletter.2b494bdc.gif",
+    "static/media/ReactBS5.bdf4c4dd.gif": "/product-hunt-clone/static/media/ReactBS5.bdf4c4dd.gif",
+    "static/media/Scandi.00517f3e.gif": "/product-hunt-clone/static/media/Scandi.00517f3e.gif",
+    "static/media/Vidds.02149067.gif": "/product-hunt-clone/static/media/Vidds.02149067.gif",
+    "static/media/triangle.0c02b63b.svg": "/product-hunt-clone/static/media/triangle.0c02b63b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfa52fd9.js",
+    "static/js/2.9ec2e7b8.chunk.js",
+    "static/css/main.22ff5d2b.chunk.css",
+    "static/js/main.8b3dc0ac.chunk.js"
+  ]
+}

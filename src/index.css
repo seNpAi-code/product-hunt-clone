@@ -1,3 +1,30 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root{
+    --gray: #f3f3f3;
+    --hunt: #cc4d29;
+    --huntdark: #e6542c;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: var(--gray);
+}
+
+.bg-orange {
+    background-color: var(--hunt);
+}
+  
+button.primary:hover {
+    background-color: var(--huntdark);
+}
+
+.text-hunt {
+    color: var(--hunt);
+}
+  
